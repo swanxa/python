@@ -53,3 +53,35 @@
 #     print("invalid")
 
 
+# score_percentage=int(input("score:"))
+# if(score_percentage>=70):
+#     name=input("enter ur name:")
+#     age=input("enter ur age:")
+#     print("eligible")
+# else:
+#     print("not eligible")
+
+#nested if
+
+# salary=int(input("salary:"))
+# age=int(input("age:"))
+# if(salary>=20000 or age<=25):
+#     loan=int(input("required loan amount:"))
+#     if(loan<50000):
+#         print("loan is available")
+#     else:
+#         print("loan amont is 50000 only")
+# else:
+#     print("loan is not available")
+
+
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+mark=(a+b+c+d+e)/5
+if(mark<35):
+    print("extra cls is required")
+else:
+    print("u r good")
