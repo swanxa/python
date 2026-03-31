@@ -3,6 +3,7 @@
 # print("scholarship is not available")
 #    print("is available")
 
+
 #number=int(input("enter a number:"))
 #if(number/3,5):
     #print("the number is divisible")
@@ -35,5 +36,20 @@
  #   print("good student")
 #else:
  #   print("invalid score")
+
+
+# a=int(input("A:"))
+# b=int(input("B:"))
+# operation=input ("add/sub/mul/div:")
+# if(operation=="add"):
+#     print(a+b)
+# elif(operation=="sub"):
+#     print(a-b)
+# elif(operation=="mul"):
+#     print(a*b)
+# elif(operation=="div"):
+#     print(a/b)
+# else:
+#     print("invalid")
 
 
